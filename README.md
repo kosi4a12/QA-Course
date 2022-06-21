@@ -1,4 +1,4 @@
 # QA-Course
 QA-Course
 
-Update validation
+Update validation bank
